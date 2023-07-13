@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SuitmediaTest</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="isPalindrome">isPalindrome</string>
+    <string name="not_palindrome">not palindrome</string>
+    <string name="welcome">Welcome</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="empty_state">There is no data</string>
+</resources>
